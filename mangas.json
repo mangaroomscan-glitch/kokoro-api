@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "titulo": "Naruto",
+    "titulo_original": "NARUTO -ナルト-",
+    "sinopse": "Naruto Uzumaki é um jovem ninja que procura por reconhecimento e sonha em se tornar o Hokage, o líder de sua vila.",
+    "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "status": "Finalizado",
+    "capitulos": 700,
+    "volumes": 72,
+    "generos": ["Ação", "Aventura", "Shounen"],
+    "autor": "Masashi Kishimoto",
+    "url": "https://myanimelist.net/manga/11/Naruto"
+  },
+  {
+    "id": "2",
+    "titulo": "One Piece",
+    "titulo_original": "ONE PIECE",
+    "sinopse": "Monkey D. Luffy recusa que qualquer um fique em seu caminho para se tornar o Rei dos Piratas.",
+    "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
+    "status": "Em andamento",
+    "capitulos": 1100,
+    "volumes": 108,
+    "generos": ["Ação", "Aventura", "Fantasia"],
+    "autor": "Eiichiro Oda",
+    "url": "https://myanimelist.net/manga/13/One_Piece"
+  }
+]
