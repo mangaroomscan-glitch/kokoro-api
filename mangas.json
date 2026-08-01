@@ -115,5 +115,22 @@
     "generos": ["Comédia", "Ficção Científica", "Slice of Life"],
     "autor": "Kouhei Kaga",
     "url": "https://myanimelist.net/manga/109580/Hakase_no_Kimagure_Homunculus"
-  }
+  },
+  {
+  "id": "159932",
+  "titulo": "",
+  "titulo_original": "嘉山くんの場合",
+  "sinopse": "Kayama uses the techniques he learned from Homunculus no Me to make his date open up to him.",
+  "capa": "https://cdn.myanimelist.net/images/manga/3/301579.jpg",
+  "status": "Finalizado",
+  "capitulos": 1,
+  "volumes": "Unknown",
+  "generos": [
+    "Romance",
+    "Adult Cast",
+    "Psychological"
+  ],
+  "autor": "Hideo Yamamoto",
+  "url": "https://myanimelist.net/manga/159932/Kayama-kun_no_Baai"
+}
 ]
