@@ -55,7 +55,7 @@
     "id": "92299",
     "titulo": "Berserk: Shinen no Kami 2",
     "titulo_original": "ベルセルク 深淵の神(2)",
-    "sinopse": "When Griffith realizes that he will no longer be able to actualize his dream in his debilitated state, he wishes upon his Crimson Behelit as a final resort. Doing so triggers the 'Eclipse'—a ritual in which the invoker sacrifices something of significance in exchange for great power.",
+    "sinopse": "When Griffith realizes that he will no longer be able to actualize his dream in his debilitated state, he wishes upon his Crimson Behelit as a final resort.",
     "capa": "https://cdn.myanimelist.net/images/manga/1/162254.jpg",
     "status": "Finalizado",
     "capitulos": 1,
@@ -63,5 +63,57 @@
     "generos": ["Seinen", "Ação", "Fantasia Sombria"],
     "autor": "Kentarou Miura",
     "url": "https://myanimelist.net/manga/92299/Berserk__Shinen_no_Kami_2"
+  },
+  {
+    "id": "936",
+    "titulo": "Homunculus",
+    "titulo_original": "ホムンクルス",
+    "sinopse": "Susumu Nakoshi é um homem de meia-idade que passa seus dias entre um luxuoso hotel e um parque cheio de sem-teto. Um dia, um jovem excêntrico o aborda procurando voluntários para uma trepanação (perfurar um buraco no crânio em troca de dinheiro). Após o procedimento, Nakoshi começa a ver 'homúnculos' em cada pessoa.",
+    "capa": "https://cdn.myanimelist.net/images/manga/1/318.jpg",
+    "status": "Finalizado",
+    "capitulos": 166,
+    "volumes": 15,
+    "generos": ["Drama", "Horror", "Mistério", "Sobrenatural", "Psicológico", "Seinen"],
+    "autor": "Hideo Yamamoto",
+    "url": "https://myanimelist.net/manga/936/Homunculus"
+  },
+  {
+    "id": "66941",
+    "titulo": "Homunculus no Musume",
+    "titulo_original": "ホムンクルスの娘",
+    "sinopse": "A filha do homúnculo. (Obra sem sinopse detalhada disponível no MyAnimeList).",
+    "capa": "https://cdn.myanimelist.net/images/manga/2/114535.jpg",
+    "status": "Finalizado",
+    "capitulos": 12,
+    "volumes": 2,
+    "generos": ["Fantasia", "Sobrenatural", "Histórico", "Shoujo"],
+    "autor": "Shou Kimiduka",
+    "url": "https://myanimelist.net/manga/66941/Homunculus_no_Musume"
+  },
+  {
+    "id": "143749",
+    "titulo": "Homunculus wa ROM-ranai",
+    "titulo_original": "ホムンクルスはROMらない〜異世界にいるホムンクルスがレス返ししてきた件〜",
+    "sinopse": "A história de um homúnculo de outro mundo interagindo em fóruns da internet.",
+    "capa": "https://cdn.myanimelist.net/images/manga/2/255142.jpg",
+    "status": "Finalizado",
+    "capitulos": 8,
+    "volumes": 1,
+    "generos": ["Aventura", "Comédia", "Drama", "Romance"],
+    "autor": "Desconhecido",
+    "url": "https://myanimelist.net/manga/143749/Homunculus_wa_ROM-ranai__Isekai_ni_Iru_Homunculus_ga_Resugaeshi_Shitekita_Ken"
+  },
+  {
+    "id": "109580",
+    "titulo": "Hakase no Kimagure Homunculus",
+    "titulo_original": "ハカセの気まぐれホムンクルス",
+    "sinopse": "Um cientista usa alquimia para criar uma pequena homúnculo chamada Ryuuchin e deixa a tarefa de criá-la para seu assistente Akai.",
+    "capa": "https://cdn.myanimelist.net/images/manga/2/201065.jpg",
+    "status": "Finalizado",
+    "capitulos": 46,
+    "volumes": "?",
+    "generos": ["Comédia", "Ficção Científica", "Slice of Life"],
+    "autor": "Kouhei Kaga",
+    "url": "https://myanimelist.net/manga/109580/Hakase_no_Kimagure_Homunculus"
   }
 ]
