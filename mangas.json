@@ -24,5 +24,18 @@
     "generos": ["Ação", "Aventura", "Fantasia"],
     "autor": "Eiichiro Oda",
     "url": "https://myanimelist.net/manga/13/One_Piece"
+  },
+  {
+    "id": "92299",
+    "titulo": "Berserk: Shinen no Kami 2",
+    "titulo_original": "ベルセルク 深淵の神(2)",
+    "sinopse": "When Griffith realizes that he will no longer be able to actualize his dream in his debilitated state, he wishes upon his Crimson Behelit as a final resort. Doing so triggers the 'Eclipse'—a ritual in which the invoker sacrifices something of significance in exchange for great power.",
+    "capa": "https://cdn.myanimelist.net/images/manga/1/162254.jpg",
+    "status": "Finalizado",
+    "capitulos": 1,
+    "volumes": 1,
+    "generos": ["Seinen", "Ação", "Fantasia Sombria"],
+    "autor": "Kentarou Miura",
+    "url": "https://myanimelist.net/manga/92299/Berserk__Shinen_no_Kami_2"
   }
 ]
