@@ -37,5 +37,24 @@
     "generos": ["Seinen", "Ação", "Fantasia Sombria"],
     "autor": "Kentarou Miura",
     "url": "https://myanimelist.net/manga/92299/Berserk__Shinen_no_Kami_2"
-  }
+  },
+  {
+  "id": "17152",
+  "titulo": "",
+  "titulo_original": "ONE PIECE STRONG WORLD",
+  "sinopse": "One Piece: Strong World is a special prologue chapter to the 10th One Piece movie, Strong World. This one-shot depicts events 20 years before the current timeline of the manga. The main focus is the relationship between Shiki, the Golden Lion and Roger, the Pirate King. In addition, it shows what other characters were doing 20 years ago. ",
+  "capa": "https://cdn.myanimelist.net/images/manga/1/25743.jpg",
+  "status": "Finalizado",
+  "capitulos": 1,
+  "volumes": "?",
+  "generos": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "autor": "Oda, Eiichiro",
+  "url": "https://myanimelist.net/manga/17152/One_Piece__Strong_World"
+}
+
 ]
